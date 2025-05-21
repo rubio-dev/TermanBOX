@@ -1,0 +1,89 @@
+:root {
+    --azul-pastel: #a3bffa;
+    --azul-marino-pastel: #37517e;
+    --naranja-pastel: #ffd6ae;
+    --naranja-pastel-2: #ffe6cb;
+    --blanco: #f9fafc;
+    --gris-suave: #f3f4f8;
+    --sombra: 0 4px 18px 0 rgba(55,81,126,0.08);
+    --radius: 26px;
+    --trans: 0.19s;
+}
+
+body {
+    min-height: 100vh;
+    margin: 0;
+    font-family: 'Inter', 'Segoe UI', Arial, sans-serif;
+    background: linear-gradient(135deg, var(--azul-pastel) 30%, var(--naranja-pastel) 100%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.container {
+    background: var(--blanco);
+    box-shadow: var(--sombra);
+    border-radius: var(--radius);
+    padding: 2.7rem 2.1rem 2.1rem 2.1rem;
+    min-width: 320px;
+    width: 100%;
+    max-width: 410px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2.4rem;
+    margin-bottom: 0.4rem;
+    font-weight: 800;
+    background: linear-gradient(90deg, var(--azul-marino-pastel), var(--naranja-pastel));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+            background-clip: text;
+            color: transparent;
+    letter-spacing: 1.5px;
+}
+
+p {
+    margin-bottom: 1.6rem;
+    color: #374366;
+    font-weight: 500;
+    font-size: 1.1rem;
+}
+
+form {
+    width: 100%;
+    margin-bottom: 0.2rem;
+    display: flex;
+    justify-content: center;
+}
+
+button, .btn {
+    width: 95%;
+    background: linear-gradient(90deg, var(--naranja-pastel-2), var(--azul-pastel) 60%);
+    color: #374366;
+    font-weight: 700;
+    font-size: 1.12rem;
+    padding: 0.95rem 0;
+    margin-bottom: 1.12rem;
+    border: none;
+    border-radius: 16px;
+    box-shadow: 0 2px 7px rgba(163,191,250,0.15);
+    cursor: pointer;
+    transition: background var(--trans), transform 0.12s, color var(--trans);
+    letter-spacing: 1px;
+}
+
+button:hover, .btn:hover {
+    background: linear-gradient(90deg, var(--azul-pastel), var(--naranja-pastel-2) 70%);
+    color: #37517e;
+    transform: scale(1.04);
+}
+
+.footer {
+    margin-top: 28px;
+    color: #95a9c9;
+    font-size: 0.97rem;
+    text-align: center;
+}
