@@ -1,0 +1,67 @@
+{
+  "nombre": "Serie I: Información",
+  "tiempo": 120,
+  "instruccion": "Elige la opción que complete correctamente la oración.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "La gasolina se extrae de:",
+      "opciones": ["a) granos", "b) petróleo", "c) trementina", "d) semilla"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "texto": "Una tonelada tiene:",
+      "opciones": ["a) 1000 Kg.", "b) 2000 Kg.", "c) 3000 Kg.", "d) 4000 Kg."],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "texto": "El nervio óptico sirve para:",
+      "opciones": ["a) ver", "b) oír", "c) probar", "d) sentir"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 4,
+      "texto": "El café es una especie de:",
+      "opciones": ["a) corteza", "b) fruto", "c) hojas", "d) raíz"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 5,
+      "texto": "El jamón es carne de:",
+      "opciones": ["a) carnero", "b) vaca", "c) gallina", "d) cerdo"],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 6,
+      "texto": "La laringe está en:",
+      "opciones": ["a) abdomen", "b) cabeza", "c) garganta", "d) espalda"],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 7,
+      "texto": "La guillotina causa:",
+      "opciones": ["a) muerte", "b) enfermedad", "c) fiebre", "d) malestar"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 8,
+      "texto": "La grúa se usa para:",
+      "opciones": ["a) perforar", "b) cortar", "c) levantar", "d) exprimir"],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 9,
+      "texto": "Una figura de seis lados se llama:",
+      "opciones": ["a) pentágono", "b) paralelogramo", "c) hexágono", "d) trapecio"],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 10,
+      "texto": "El kilowatt mide:",
+      "opciones": ["a) lluvia", "b) viento", "c) electricidad", "d) presión"],
+      "respuesta_correcta": "c"
+    }
+  ]
+}

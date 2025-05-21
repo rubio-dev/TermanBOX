@@ -1,0 +1,107 @@
+{
+  "nombre": "Serie II: Juicio",
+  "tiempo": 120,
+  "instruccion": "Elige la opción que consideres correcta para cada situación.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "Si la Tierra estuviera más cerca del Sol:",
+      "opciones": [
+        "a) las estrellas desaparecerían",
+        "b) los meses serían más largos",
+        "c) la Tierra estaría más caliente"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 2,
+      "texto": "Los rayos de una rueda están frecuentemente hechos de nogal porque:",
+      "opciones": [
+        "a) el nogal es fuerte",
+        "b) se corta fácilmente",
+        "c) coge bien la pintura"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "texto": "Un tren se detiene con más dificultad que un automóvil porque:",
+      "opciones": [
+        "a) tiene más ruedas",
+        "b) es más pesado",
+        "c) sus frenos no son buenos"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 4,
+      "texto": "El dicho “A golpecitos se derriba un roble” quiere decir:",
+      "opciones": [
+        "a) que los robles son débiles",
+        "b) que son mejores los golpes pequeños",
+        "c) que el esfuerzo constante logra resultados sorprendentes"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 5,
+      "texto": "El dicho “Una olla vigilada nunca hierve” quiere decir:",
+      "opciones": [
+        "a) que no debemos vigilarla cuando está en el fuego",
+        "b) que tarda en hervir",
+        "c) que el tiempo se alarga cuando esperamos algo"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 6,
+      "texto": "El dicho “Siembra pasto mientras haya sol” quiere decir:",
+      "opciones": [
+        "a) que el pasto se siembra en verano",
+        "b) que debemos aprovechar nuestras oportunidades",
+        "c) que el pasto no debe cortarse en la noche"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 7,
+      "texto": "El dicho “Zapatero a tus zapatos” quiere decir:",
+      "opciones": [
+        "a) que un zapatero no debe abandonar sus zapatos",
+        "b) que los zapateros no deben estar ociosos",
+        "c) que debemos trabajar en lo que podamos hacer mejor"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 8,
+      "texto": "El dicho “La cuña para que apriete tiene que ser del mismo palo” quiere decir:",
+      "opciones": [
+        "a) que el palo sirve para apretar",
+        "b) que las cuñas siempre son de madera",
+        "c) nos exigen más las personas que nos conocen"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 9,
+      "texto": "Un acorazado de acero flota porque:",
+      "opciones": [
+        "a) la máquina lo hace flotar",
+        "b) porque tiene grandes espacios huecos",
+        "c) contiene algo de madera"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 10,
+      "texto": "Las plumas de las alas ayudan al pájaro a volar porque:",
+      "opciones": [
+        "a) las alas ofrecen una amplia superficie ligera",
+        "b) mantiene el aire fuera del cuerpo",
+        "c) disminuyen su peso"
+      ],
+      "respuesta_correcta": "a"
+    }
+  ]
+}
