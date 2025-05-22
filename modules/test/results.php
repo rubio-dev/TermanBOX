@@ -11,7 +11,6 @@
         <h2>¡Test finalizado!</h2>
         <p>
             Gracias por completar todas las series.<br>
-            Próximamente verás aquí tus resultados detallados.
         </p>
         <button class="submit-btn" onclick="window.location.href='../../index.php'">Volver al inicio</button>
     </div>

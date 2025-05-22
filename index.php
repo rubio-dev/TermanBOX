@@ -14,7 +14,7 @@
         <form action="modules/test/index.php" method="get">
             <button type="submit">Cuestionario</button>
         </form>
-        <form action="modulos/resultados.php" method="get">
+        <form action="modules/results/index.php" method="get">
             <button type="submit">Resultados</button>
         </form>
         <form action="acerca.php" method="get">
