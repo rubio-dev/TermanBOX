@@ -56,19 +56,23 @@ if (!isset($_SESSION['usuario_id'])) {
     <body>
     <div class="test-container">
         <h2>Registro antes de iniciar el test</h2>
-        <form method="post" autocomplete="off">
-            <label>Nombre:<br>
-                <input type="text" name="nombre" required>
-            </label><br>
-            <label>Edad:<br>
-                <input type="number" name="edad" min="4" max="99" required>
-            </label><br>
-            <label>Ciudad:<br>
-                <input type="text" name="ciudad" required>
-            </label><br>
-            <label>Departamento:<br>
-                <input type="text" name="departamento" required>
-            </label><br><br>
+        <form method="post" autocomplete="off" class="registro-form">
+            <div class="input-group">
+                <label for="nombre">Nombre:</label>
+                <input type="text" name="nombre" id="nombre" required>
+            </div>
+            <div class="input-group">
+                <label for="edad">Edad:</label>
+                <input type="number" name="edad" id="edad" min="4" max="99" required>
+            </div>
+            <div class="input-group">
+                <label for="ciudad">Ciudad:</label>
+                <input type="text" name="ciudad" id="ciudad" required>
+            </div>
+            <div class="input-group">
+                <label for="departamento">Departamento:</label>
+                <input type="text" name="departamento" id="departamento" required>
+            </div>
             <button type="submit" class="submit-btn">Comenzar test</button>
         </form>
     </div>
