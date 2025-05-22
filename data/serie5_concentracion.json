@@ -1,0 +1,67 @@
+{
+  "nombre": "Serie V: Concentración",
+  "tiempo": 300,
+  "instruccion": "Resuelve el problema y selecciona la respuesta correcta.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "A 2 por 5 pesos ¿Cuántos lápices pueden comprarse con 50 pesos?",
+      "opciones": ["a) 10", "b) 15", "c) 20", "d) 25"],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 2,
+      "texto": "¿Cuántas horas tardaría un automóvil en recorrer 660 km a 60 km/h?",
+      "opciones": ["a) 10", "b) 11", "c) 12", "d) 14"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 3,
+      "texto": "Si un hombre gana $200 diarios y gasta $140 ¿Cuántos días tardará en ahorrar $3,000?",
+      "opciones": ["a) 25", "b) 30", "c) 40", "d) 50"],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 4,
+      "texto": "Si dos pasteles cuestan $600 ¿Cuánto cuesta la sexta parte de un pastel?",
+      "opciones": ["a) $50", "b) $60", "c) $100", "d) $200"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "texto": "¿Cuántas veces más es 2 x 3 x 4 x 6, que 3 x 4?",
+      "opciones": ["a) 4", "b) 5", "c) 6", "d) 8"],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 6,
+      "texto": "¿Cuánto es el 15% de $120?",
+      "opciones": ["a) $12", "b) $15", "c) $18", "d) $20"],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 7,
+      "texto": "El cuatro por ciento de $1,000 es igual al ocho por ciento ¿de qué cantidad?",
+      "opciones": ["a) $400", "b) $500", "c) $200", "d) $50"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "texto": "Un refrigerador tiene 48 m³. Si mide 6 m de largo por 4 de ancho, ¿cuál es su altura?",
+      "opciones": ["a) 1 m", "b) 2 m", "c) 4 m", "d) 6 m"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 9,
+      "texto": "Si 7 hombres hacen un pozo de 40 metros en 2 días, ¿cuántos hombres se necesitan para hacerlo en medio día?",
+      "opciones": ["a) 28", "b) 35", "c) 56", "d) 140"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "texto": "A tiene $180; B tiene 2/3 de lo que tiene A y C 1/2 de lo que tiene B, ¿cuánto tienen todos juntos?",
+      "opciones": ["a) $210", "b) $220", "c) $240", "d) $250"],
+      "respuesta_correcta": "c"
+    }
+  ]
+}

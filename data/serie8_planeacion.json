@@ -1,0 +1,67 @@
+{
+  "nombre": "Serie VIII: Planeación",
+  "tiempo": 180,
+  "instruccion": "Lee cada oración desordenada y selecciona si el significado es verdadero (a) o falso (b).",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "con crecen los niños edad la",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 2,
+      "texto": "buena mar beber el para agua de es",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 3,
+      "texto": "lo es paz la guerra opuesto la a",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 4,
+      "texto": "caballos automóvil un que caminan los despacio más",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 5,
+      "texto": "consejo a veces es buen seguir un difícil",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 6,
+      "texto": "cuatrocientas todos páginas contienen libros los",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 7,
+      "texto": "crecen las que fresas el más roble",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "texto": "verdadera comparada no puede amistad ser la",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "texto": "envidia la perjudiciales gula son y la",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "texto": "nunca acciones premiadas las deben buenas ser",
+      "opciones": ["a) Verdadero", "b) Falso"],
+      "respuesta_correcta": "a"
+    }
+  ]
+}

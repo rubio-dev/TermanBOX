@@ -1,0 +1,67 @@
+{
+  "nombre": "Serie VI: Análisis",
+  "tiempo": 120,
+  "instruccion": "Lee cada afirmación y selecciona si es verdadera (Sí) o falsa (No).",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "La higiene es esencial para la salud.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 2,
+      "texto": "Los taquígrafos usan el microscopio.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 3,
+      "texto": "Los tiranos son justos con sus inferiores.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 4,
+      "texto": "Las personas desamparadas están sujetas con frecuencia a la caridad.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "texto": "Las personas venerables son por lo común respetadas.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 6,
+      "texto": "Es el escorbuto un medicamento.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 7,
+      "texto": "Es la amonestación una clase de instrumento musical.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "texto": "Son los colores opacos preferidos para las banderas nacionales.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 9,
+      "texto": "Las cosas misteriosas son a veces pavorosas.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "texto": "Personas conscientes cometen alguna vez errores.",
+      "opciones": ["a) Sí", "b) No"],
+      "respuesta_correcta": "a"
+    }
+  ]
+}

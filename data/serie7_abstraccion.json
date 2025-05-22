@@ -1,0 +1,117 @@
+{
+  "nombre": "Serie VII: Abstracción",
+  "tiempo": 120,
+  "instruccion": "Selecciona la opción que completa correctamente la analogía.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "ABRIGO es a USAR como PAN es a:",
+      "opciones": [
+        "a) comer",
+        "b) hambre",
+        "c) agua",
+        "d) cocinar"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 2,
+      "texto": "SEMANA es a MES como MES es a:",
+      "opciones": [
+        "a) año",
+        "b) hora",
+        "c) minuto",
+        "d) siglo"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "texto": "LEÓN es a ANIMAL como ROSA es a:",
+      "opciones": [
+        "a) olor",
+        "b) hoja",
+        "c) planta",
+        "d) espina"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 4,
+      "texto": "LIBERTAD es a INDEPENDENCIA como CAUTIVERIO es a:",
+      "opciones": [
+        "a) negro",
+        "b) esclavitud",
+        "c) libre",
+        "d) sufrir"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 5,
+      "texto": "DECIR es a DIJO como ESTAR es a:",
+      "opciones": [
+        "a) cantar",
+        "b) estuvo",
+        "c) hablando",
+        "d) cantó"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 6,
+      "texto": "LUNES es a MARTES como VIERNES es a:",
+      "opciones": [
+        "a) semana",
+        "b) jueves",
+        "c) día",
+        "d) sábado"
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 7,
+      "texto": "PLOMO es a PESADO como CORCHO es a:",
+      "opciones": [
+        "a) botella",
+        "b) peso",
+        "c) ligero",
+        "d) flotar"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 8,
+      "texto": "ÉXITO es a ALEGRÍA como FRACASO es a:",
+      "opciones": [
+        "a) tristeza",
+        "b) suerte",
+        "c) fracasar",
+        "d) trabajo"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "texto": "GATO es a TIGRE como PERRO es a:",
+      "opciones": [
+        "a) lobo",
+        "b) ladrido",
+        "c) mordida",
+        "d) agarrar"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "texto": "4 es a 16 como 5 es a:",
+      "opciones": [
+        "a) 7",
+        "b) 45",
+        "c) 35",
+        "d) 25"
+      ],
+      "respuesta_correcta": "d"
+    }
+  ]
+}

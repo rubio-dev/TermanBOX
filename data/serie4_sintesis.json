@@ -1,0 +1,117 @@
+{
+  "nombre": "Serie IV: Síntesis",
+  "tiempo": 180,
+  "instruccion": "Selecciona la combinación que siempre tiene el sujeto en cada caso.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "Un CÍRCULO tiene siempre:",
+      "opciones": [
+        "a) Altura y radio",
+        "b) Circunferencia y radio",
+        "c) Latitud y longitud",
+        "d) Altura y longitud"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "texto": "Un PÁJARO tiene siempre:",
+      "opciones": [
+        "a) Huevos y nido",
+        "b) Pico y huesos",
+        "c) Pico y canto",
+        "d) Nido y canto"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 3,
+      "texto": "La MÚSICA tiene siempre:",
+      "opciones": [
+        "a) Oyente y ritmo",
+        "b) Piano y sonido",
+        "c) Ritmo y sonido",
+        "d) Oyente y violín"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 4,
+      "texto": "Un BANQUETE tiene siempre:",
+      "opciones": [
+        "a) Alimentos y personas",
+        "b) Música y anfitrión",
+        "c) Alimentos y música",
+        "d) Discursos y música"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "texto": "Un CABALLO tiene siempre:",
+      "opciones": [
+        "a) Arnés y herradura",
+        "b) Casco y cola",
+        "c) Herradura y establo",
+        "d) Casco y cola"
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 6,
+      "texto": "Un JUEGO tiene siempre:",
+      "opciones": [
+        "a) Castigos y reglas",
+        "b) Cartas y castigos",
+        "c) Jugadores y reglas",
+        "d) Castigos y jugadores"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 7,
+      "texto": "Un OBJETO tiene siempre:",
+      "opciones": [
+        "a) Calor y peso",
+        "b) Tamaño y peso",
+        "c) Valor y sabor",
+        "d) Calor y tamaño"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 8,
+      "texto": "Una CONVERSACIÓN tiene siempre:",
+      "opciones": [
+        "a) Personas y palabras",
+        "b) Ingenio y preguntas",
+        "c) Acuerdos y preguntas",
+        "d) Palabras y acuerdos"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "texto": "Una DEUDA tiene siempre:",
+      "opciones": [
+        "a) Deudor y acreedor",
+        "b) Pago y hipoteca",
+        "c) Interés y acreedor",
+        "d) Acreedor y pago"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "texto": "Un CIUDADANO tiene siempre:",
+      "opciones": [
+        "a) País y derechos",
+        "b) Ocupación y país",
+        "c) Propiedad y derechos",
+        "d) Voto y país"
+      ],
+      "respuesta_correcta": "a"
+    }
+  ]
+}

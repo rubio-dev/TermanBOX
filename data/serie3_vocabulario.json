@@ -1,0 +1,67 @@
+{
+  "nombre": "Serie III: Vocabulario",
+  "tiempo": 120,
+  "instruccion": "Elige si las palabras tienen significado igual o significado opuesto.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "salado - dulce",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 2,
+      "texto": "alegrarse - regocijarse",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "texto": "mayor – menor",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 4,
+      "texto": "sentarse – pararse",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 5,
+      "texto": "desperdiciar – aprovechar",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 6,
+      "texto": "conceder - negar",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 7,
+      "texto": "tónico – estimulante",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 8,
+      "texto": "rebajar – denigrar",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "texto": "prohibir – permitir",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 10,
+      "texto": "osado – audaz",
+      "opciones": ["a) Igual", "b) Opuesto"],
+      "respuesta_correcta": "a"
+    }
+  ]
+}

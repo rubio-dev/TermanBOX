@@ -1,0 +1,127 @@
+{
+  "nombre": "Serie IX: Organización",
+  "tiempo": 120,
+  "instruccion": "Elige la opción que NO pertenece al grupo o es diferente a las demás.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "a) saltar   b) correr c) brincar d) pararse e) caminar",
+      "opciones": [
+        "a) saltar",
+        "b) correr",
+        "c) brincar",
+        "d) pararse",
+        "e) caminar"
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 2,
+      "texto": "a) monarquía b) comunista c) demócrata d) anarquista e) católico",
+      "opciones": [
+        "a) monarquía",
+        "b) comunista",
+        "c) demócrata",
+        "d) anarquista",
+        "e) católico"
+      ],
+      "respuesta_correcta": "e"
+    },
+    {
+      "id": 3,
+      "texto": "a) muerte b) duelo c) paseo d) pobreza e) tristeza",
+      "opciones": [
+        "a) muerte",
+        "b) duelo",
+        "c) paseo",
+        "d) pobreza",
+        "e) tristeza"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 4,
+      "texto": "a) carpintero b) doctor c) abogado d) ingeniero e) profesor",
+      "opciones": [
+        "a) carpintero",
+        "b) doctor",
+        "c) abogado",
+        "d) ingeniero",
+        "e) profesor"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 5,
+      "texto": "a) cama b) silla  c) plato  d) sofá  e) mesa",
+      "opciones": [
+        "a) cama",
+        "b) silla",
+        "c) plato",
+        "d) sofá",
+        "e) mesa"
+      ],
+      "respuesta_correcta": "c"
+    },
+    {
+      "id": 6,
+      "texto": "a) Francisco b) Santiago  c) Juan  d) Sara  e) Guillermo",
+      "opciones": [
+        "a) Francisco",
+        "b) Santiago",
+        "c) Juan",
+        "d) Sara",
+        "e) Guillermo"
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 7,
+      "texto": "a) duro  b) áspero c) liso  d) suave e) dulce",
+      "opciones": [
+        "a) duro",
+        "b) áspero",
+        "c) liso",
+        "d) suave",
+        "e) dulce"
+      ],
+      "respuesta_correcta": "e"
+    },
+    {
+      "id": 8,
+      "texto": "a) digestión b) oído  c) vista  d) olfato e) tacto",
+      "opciones": [
+        "a) digestión",
+        "b) oído",
+        "c) vista",
+        "d) olfato",
+        "e) tacto"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "texto": "a) automóvil b) bicicleta c) guayín d) telégrafo e) tren",
+      "opciones": [
+        "a) automóvil",
+        "b) bicicleta",
+        "c) guayín",
+        "d) telégrafo",
+        "e) tren"
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 10,
+      "texto": "a) abajo b) acá  c) reciente d) arriba e) allá",
+      "opciones": [
+        "a) abajo",
+        "b) acá",
+        "c) reciente",
+        "d) arriba",
+        "e) allá"
+      ],
+      "respuesta_correcta": "c"
+    }
+  ]
+}

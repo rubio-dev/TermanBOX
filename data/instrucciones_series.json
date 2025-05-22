@@ -1,4 +1,12 @@
 {
   "serie1": "Elige la opción que complete correctamente la oración.",
-  "serie2": "Elige la opción que consideres correcta para cada situación."
+  "serie2": "Elige la opción que consideres correcta para cada situación.",
+  "serie3": "Selecciona si las palabras presentadas tienen significado igual o significado opuesto.",
+  "serie4": "Selecciona la opción correcta de lo que siempre tiene el sujeto en cada caso.",
+  "serie5": "Lee cada problema matemático y selecciona la opción correcta.",
+  "serie6": "Selecciona si cada afirmación es verdadera (Sí) o falsa (No).",
+  "serie7": "Selecciona la opción que completa correctamente la analogía.",
+  "serie8": "Lee cada oración desordenada y selecciona si el significado es verdadero (a) o falso (b).",
+  "serie9": "Elige la opción que NO pertenece al grupo o es diferente a las demás.",
+  "serie10": "Observa la serie numérica y selecciona la opción que contiene los dos números que faltan."
 }

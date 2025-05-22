@@ -1,0 +1,117 @@
+{
+  "nombre": "Serie X: Atención",
+  "tiempo": 240,
+  "instruccion": "Observa la serie numérica y selecciona la opción que contiene los dos números que faltan.",
+  "preguntas": [
+    {
+      "id": 1,
+      "texto": "8 7 6 5 4 3 ___ ___",
+      "opciones": [
+        "a) 2, 1",
+        "b) 2, 0",
+        "c) 1, 0",
+        "d) 3, 2"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 2,
+      "texto": "3 8 13 18 23 28 ___ ___",
+      "opciones": [
+        "a) 33, 38",
+        "b) 30, 36",
+        "c) 32, 37",
+        "d) 31, 36"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 3,
+      "texto": "1 2 4 8 16 32 ___ ___",
+      "opciones": [
+        "a) 48, 56",
+        "b) 40, 56",
+        "c) 40, 80",
+        "d) 64, 128"
+      ],
+      "respuesta_correcta": "d"
+    },
+    {
+      "id": 4,
+      "texto": "8 8 6 6 4 4 ___ ___",
+      "opciones": [
+        "a) 2, 2",
+        "b) 4, 2",
+        "c) 2, 0",
+        "d) 4, 0"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 5,
+      "texto": "11 3/4  12  12 1/4  12 1/2  12 3/4 ___ ___",
+      "opciones": [
+        "a) 13, 13 1/4",
+        "b) 12 7/8, 13",
+        "c) 13, 13 1/2",
+        "d) 13 1/4, 13 1/2"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 6,
+      "texto": "8 9 12 13 16 17 ___ ___",
+      "opciones": [
+        "a) 19, 22",
+        "b) 18, 19",
+        "c) 20, 23",
+        "d) 18, 21"
+      ],
+      "respuesta_correcta": "b"
+    },
+    {
+      "id": 7,
+      "texto": "16 8 4 2 1 1/2 ___ ___",
+      "opciones": [
+        "a) 1/4, 1/8",
+        "b) 1, 1/2",
+        "c) 0, 0",
+        "d) 1/4, 0"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 8,
+      "texto": "31.3 40.3 49.3 58.3 67.3 76.3 ___ ___",
+      "opciones": [
+        "a) 85.3, 94.3",
+        "b) 86.3, 96.3",
+        "c) 87.3, 97.3",
+        "d) 84.3, 95.3"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 9,
+      "texto": "3 5 4 6 5 7 ___ ___",
+      "opciones": [
+        "a) 6, 8",
+        "b) 7, 9",
+        "c) 6, 9",
+        "d) 5, 7"
+      ],
+      "respuesta_correcta": "a"
+    },
+    {
+      "id": 10,
+      "texto": "7 11 15 16 20 24 25 29 ___ ___",
+      "opciones": [
+        "a) 30, 34",
+        "b) 33, 34",
+        "c) 31, 32",
+        "d) 32, 33"
+      ],
+      "respuesta_correcta": "b"
+    }
+  ]
+}
