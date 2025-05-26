@@ -10,7 +10,7 @@ Funciona en XAMPP (o cualquier servidor local con PHP) y utiliza MySQL y archivo
 - Presentación de cada serie del Test de Terman con temporizador.
 - Interfaz pastel, limpia y moderna.
 - Preguntas y tiempos de cada serie configurables desde archivos JSON.
-- Resultados guardados en base de datos (MySQL) para análisis posterior.
+- Resultados guardados en base de datos (MySQL / MariaDB) para análisis posterior.
 - Historial de resultados y análisis básico.
 - Estructura modular y escalable.
 
