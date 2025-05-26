@@ -37,7 +37,7 @@ $ultimos = $stmt->fetchAll(PDO::FETCH_ASSOC);
         <h1>Análisis</h1>
         <p>Resumen general del Test Terman-Merrill aplicado.</p>
 
-        <!-- Tarjetas resumen -->
+        <!-- Tarjetas -->
         <div style="display: flex; gap: 14px; width: 100%; margin-bottom: 1.3rem;">
             <div style="background: var(--azul-pastel); border-radius: 14px; padding: 1.1rem; flex:1; text-align: center;">
                 <span style="font-size: 1.1rem; font-weight: 700;">Total</span><br>
@@ -71,7 +71,7 @@ $ultimos = $stmt->fetchAll(PDO::FETCH_ASSOC);
             </table>
         </div>
 
-        <button onclick="location.href='../../test.php'">Aplicar nuevo test</button>
+        <button onclick="location.href='comparison.php'">Comparación</button>
         <button onclick="location.href='../results/index.php'">Ver todos los resultados</button>
         <div class="footer">TermanBOX - Análisis</div>
     </div>
